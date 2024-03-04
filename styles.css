@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #007bff;
+    background-color: #068a94;
     color: #fff;
     padding: 20px;
 }
@@ -59,7 +59,7 @@ h2 {
 }
 
 footer {
-    background-color: #007bff;
+    background-color: #068a94;
     color: #fff;
     text-align: center;
     padding: 10px 0;
@@ -70,7 +70,7 @@ footer {
 
 /* Styles spécifiques */
 a {
-    color: #007bff;
+    color: #068a94;
 }
 
 a:hover {
